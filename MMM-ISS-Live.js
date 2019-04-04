@@ -35,7 +35,7 @@ Module.register("MMM-ISS-Live",{
 		iframe.width = this.config.width;
 		iframe.height = this.config.height;
 		type="text/javascript";
-    iframe.src="https://www.ustream.tv/embed/9408562?html5ui";
+    iframe.src="https://www.ustream.tv/embed/9408562?html5ui?autoplay=1";
 
 		return iframe;
 	},
