@@ -16,7 +16,7 @@ or city lights below.
 ## Examples
 The module is a live stream. These are still shots, obviously.
 
-![](images/i1.png) ![](images/i2.png) 
+![](images/i1.png) ![](images/i22.png) 
 
 ## Installation
 
