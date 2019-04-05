@@ -13,6 +13,11 @@ every 90 minutes, it experiences a sunrise or a sunset about every 45 minutes. W
 darkness, external camera video may appear black, but can sometimes provide spectacular views of lightning
 or city lights below.
 
+## Examples
+The module is a live stream. These are still shots, obviously.
+
+![](images/i1.png) ![](images/i2.png) 
+
 ## Installation
 
 * `git clone https://github.com/mykle1/MMM-ISS-Live` into the `~/MagicMirror/modules` directory.
