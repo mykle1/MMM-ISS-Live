@@ -25,7 +25,7 @@ The module is a live stream. These are still shots, obviously.
 ## Config.js entry and options
 
     {
-    disabled: f,
+    disabled: false,
     module: 'MMM-ISS-Live',
     position: 'bottom left',
     config: {
